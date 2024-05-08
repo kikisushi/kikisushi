@@ -2,7 +2,7 @@
 
 My tech stack ✨
 </br>
-<img alt="javascript" src ="https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 <!--
 **kikisushi/kikisushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

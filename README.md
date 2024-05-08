@@ -1,7 +1,7 @@
 # Hi, i'm Ingeon Hwang 👋
 [![Instagram Badge](https://img.shields.io/badge/-@l0v3__gun-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/l0v3_gun/)](https://www.instagram.com/l0v3_gun/)
 </br>
-Welcome to my profile!
+🤩 Welcome to my profile!
 ## My tech stack ✨
 </br>
 <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>

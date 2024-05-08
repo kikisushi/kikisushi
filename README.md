@@ -2,7 +2,7 @@
 
 My tech stack ✨
 </br>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-black.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-21262d.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 <img alt="nodedotjs" src ="https://img.shields.io/badge/node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <!--

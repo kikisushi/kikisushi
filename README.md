@@ -1,4 +1,4 @@
-### Hi, i'm Ingeon Hwang 👋
+# Hi, i'm Ingeon Hwang 👋
 
 ## My tech stack ✨
 </br>

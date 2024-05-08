@@ -1,5 +1,8 @@
 ### Hi, i'm Ingeon Hwang 👋
 
+My tech stack ✨
+<img alt="javascript" src ="https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=로고명&logoColor=#F7DF1E"/>
+
 <!--
 **kikisushi/kikisushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 -->

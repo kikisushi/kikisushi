@@ -1,5 +1,5 @@
 # Hi, i'm Ingeon Hwang 👋
-[![Instagram Badge](https://img.shields.io/badge/-@__L0v3__gun-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
+[![Instagram Badge](https://img.shields.io/badge/-@l0v3__gun-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/l0v3_gun/)]
 Welcome to my profile!
 ## My tech stack ✨
 </br>

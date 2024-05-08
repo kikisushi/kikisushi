@@ -2,7 +2,7 @@
 
 My tech stack ✨
 </br>
-<img alt="html5" src ="https://img.shields.io/badge/html5-1572B6.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="css3" src ="https://img.shields.io/badge/css3-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-21262d.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 <img alt="nodedotjs" src ="https://img.shields.io/badge/node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>

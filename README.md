@@ -1,6 +1,6 @@
 # Hi, i'm Ingeon Hwang 👋
 [![Instagram Badge](https://img.shields.io/badge/-@l0v3__gun-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/l0v3_gun/)](https://www.instagram.com/l0v3_gun/)
-[![Instagram Badge](https://img.shields.io/badge/-Tistory__blog-ef570d?style=flat&logo=tistory&logoColor=white&link=https://kikisushi24.tistory.com/)](https://kikisushi24.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory__blog-ef570d?style=flat&logo=tistory&logoColor=white&link=https://kikisushi24.tistory.com/)](https://kikisushi24.tistory.com/)
 </br>
 🤩 Welcome to my profile! </br>
 📚 I'm a student who has been programming since April,24. </br>

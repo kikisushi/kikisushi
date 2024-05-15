@@ -11,6 +11,7 @@
 <img alt="nodedotjs" src ="https://img.shields.io/badge/node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="mongodb" src ="https://img.shields.io/badge/mongodb-#47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <!--
 **kikisushi/kikisushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
